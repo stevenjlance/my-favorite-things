@@ -1,11 +1,10 @@
-#MY FAVORITE THINGS
-=================
+# MY FAVORITE THINGS
 
 
 
-##GOAL
--------------------
+
+## GOAL
 
 
-##TASK
--------------------
+
+## TASK
